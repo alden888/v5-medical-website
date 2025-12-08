@@ -1,5 +1,5 @@
-{
-  "name": "v5-medical-website",
+// wrangler.jsonc
+"name": "v5-test",
   "compatibility_date": "2025-12-03",
   "assets": {
     "directory": "./",
